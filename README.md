@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá sou o Rafael Alves
 
-<!--
-**EngRafaelAlves/EngRafaelAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/eng-rafael-alves)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=EngRafaelAlves&show_icons=true&theme=dracula)
+
+## Tecnologias que utilizo no meu dia.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+Estudante apaixonado por Análise de Dados com habilidades em coleta, processamento e interpretação de dados. Buscando oportunidades para aplicar e desenvolver minhas habilidades em projetos reais. 
